@@ -1,0 +1,7 @@
+{
+  "RESULT_TOPIC": "sizzle_result_topic_name",
+  "RESULT_BUCKET": "sizzle_cards_texts",
+  "TRANSLATE_TOPIC": "sizzle_translate_topic_name",
+  "TRANSLATE": true,
+  "TO_LANG": ["en", "fr", "es", "ja", "ru"]
+}
